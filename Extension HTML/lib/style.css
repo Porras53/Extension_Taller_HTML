@@ -1,0 +1,146 @@
+/* Add your styles here */
+#fotoTitulo {
+  text-align: center;
+  border: 50pc;
+  border-color: green;
+  border-width: 4;
+}
+
+
+h1 {
+  background-color: rgba(62, 177, 120, 0.5);
+  color: white;
+  border-radius: 50px 30px 80px 10px;
+}
+#Logo {
+  border: 5px solid #1031b3;
+  border-radius: 50px 30px 80px 10px;
+  margin: 15px;
+  -webkit-transition: margin 0.5s ease-out;
+  -moz-transition: margin 0.5s ease-out;
+  -o-transition: margin 0.5s ease-out;
+}
+#Logo:hover {
+  margin-top: 2px;
+}
+img
+{
+  border: 5px solid #1031b3;
+  border-radius: 50px 30px 80px 10px;
+  margin: 15px;
+  -webkit-transition: margin 0.5s ease-out;
+  -moz-transition: margin 0.5s ease-out;
+  -o-transition: margin 0.5s ease-out;
+}
+
+img:hover
+{
+  margin-top: 2px;
+}
+
+#jeje
+{
+  font-size:50px;
+  color: white;
+  text-align: center;
+}
+#f11
+{
+  text-align: center; 
+  border-radius: 50px 30px 80px 10px;
+  background-color: rgba(65, 9, 129, 0.521);
+}
+#f21
+{
+  border-radius: 10px 50px 80px 50px;
+  border: 3px solid #1900f562;
+  background-color: rgba(65, 9, 129, 0);
+}
+
+#f22
+{
+  border-radius: 10px 50px 80px 50px;
+  border: 3px solid #1900f562;
+  background-color: rgba(65, 9, 129, 0);
+}
+
+#f31
+{
+  border-radius: 10px 50px 80px 50px;
+  border: 3px solid #1900f562;
+  background-color: rgba(65, 9, 129, 0);
+}
+
+#f32
+{
+  border-radius: 10px 50px 80px 50px;
+  border: 3px solid #1900f562;
+  background-color: rgba(65, 9, 129, 0);
+}
+
+#f121
+{
+  text-align: center; 
+  border-radius: 50px 30px 80px 10px;
+  background-color: rgba(9, 129, 25, 0.301);
+  vertical-align: middle;
+}
+
+#i1
+{
+  border-radius: 50px 30px 80px 10px;
+  border: 3px solid #1900f562;
+  background-color: rgba(11, 163, 163, 0.521);
+  color: white;
+  text-align: center;
+}
+
+#i2
+{
+  border-radius: 50px 30px 80px 10px;
+  border: 3px solid #1900f562;
+  background-color: rgba(122, 163, 11, 0.521);
+  color: white;
+   text-align: center;
+}
+
+#i3
+{
+  border-radius: 50px 30px 80px 10px;
+  border: 3px solid #1900f562;
+  background-color: rgba(11, 26, 163, 0.521);
+  color: white;
+   text-align: center;
+}
+
+#i4
+{
+  border-radius: 50px 30px 80px 10px;
+  border: 3px solid #1900f562;
+  background-color: rgba(153, 16, 50, 0.521);
+  color: white;
+   text-align: center;
+}
+
+#i5
+{
+  border-radius: 50px 30px 80px 10px;
+  border: 3px solid #1900f562;
+  background-color: rgba(163, 67, 11, 0.521);
+  color: white;
+   text-align: center;
+}
+
+#i6
+{
+  border-radius: 50px 30px 80px 10px;
+  border: 3px solid #1900f562;
+  background-color: rgba(160, 1, 139, 0.514);
+  color: white;
+   text-align: center;
+}
+
+
+
+
+
